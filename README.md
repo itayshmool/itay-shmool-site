@@ -1,0 +1,80 @@
+# Itay Shmool - Personal Website
+
+A mobile-first, single-page resume website showcasing Itay Shmool's 20+ year career in tech leadership at Wix.
+
+## Design Concept
+
+**Aesthetic**: Editorial/Magazine meets Tech Brutalism
+- Industrial color palette with warm orange accents
+- Vertical sidebar with rotated name branding
+- Staggered content blocks with asymmetric layout
+- Kinetic typography and scroll-triggered animations
+
+## Features
+
+- 📱 Mobile-first responsive design
+- 🎨 Custom typography (Bebas Neue, Space Grotesk, IBM Plex Mono)
+- ✨ Smooth scroll animations and parallax effects
+- 🎯 Interactive micro-interactions
+- 🖨️ Print-friendly styles
+- ♿ Accessible design
+- 🎮 Easter egg (Konami code)
+
+## Tech Stack
+
+- Pure HTML5
+- CSS3 (Custom properties, Grid, Flexbox, Animations)
+- Vanilla JavaScript (No frameworks)
+- Google Fonts
+
+## Sections
+
+1. **Hero** - Bold introduction with animated title
+2. **About** - Personal philosophy and values
+3. **Career** - Interactive timeline of professional journey
+4. **Expertise** - Skills categorized by domain
+5. **Mentorship** - Free mentorship offerings
+6. **Speaking** - Conference talks and presentations
+7. **Connect** - Social links (LinkedIn, GitHub, Website)
+
+## Local Development
+
+Simply open `index.html` in your browser. No build process required.
+
+## Deployment
+
+This site is designed for GitHub Pages. To deploy:
+
+1. Push to a GitHub repository
+2. Enable GitHub Pages in repository settings
+3. Select branch and root folder
+4. Site will be live at `https://[username].github.io/[repo-name]`
+
+## Performance
+
+- Minimal dependencies (Google Fonts only)
+- No JavaScript frameworks
+- Optimized animations with `prefers-reduced-motion` support
+- Lazy-loaded sections with Intersection Observer
+
+## Browser Support
+
+- Chrome/Edge (latest)
+- Firefox (latest)
+- Safari (latest)
+- Mobile browsers (iOS Safari, Chrome Android)
+
+## Credits
+
+Designed and developed with care in 2026.
+
+Information sourced from:
+- [LinkedIn Profile](https://www.linkedin.com/in/itayshmool/)
+- [GitHub Profile](https://github.com/itayshmool)
+- [Personal Website](https://www.itayshmool.net/)
+- [Wix Automation Presentation](https://www.slideshare.net/itayshmool/wix-automation)
+- [Selenium TLV Meetup](https://applitools.com/blog/selenium-meetup-3/)
+
+---
+
+Made with 🧡 by Claude Code
