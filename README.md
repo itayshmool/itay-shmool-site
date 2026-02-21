@@ -37,8 +37,7 @@ A mobile-first, single-page resume website showcasing Itay Shmool's 20+ year car
 4. **Career** - Interactive timeline of professional journey
 5. **Expertise** - Skills categorized by domain
 6. **Mentorship** - Free mentorship offerings
-7. **Speaking** - Conference talks and presentations
-8. **Connect** - Social links (LinkedIn, GitHub, Website)
+7. **Connect** - Social links (LinkedIn, GitHub, Website)
 
 ## Local Development
 
