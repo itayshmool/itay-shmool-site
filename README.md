@@ -2,6 +2,8 @@
 
 A mobile-first, single-page resume website showcasing Itay Shmool's 20+ year career in tech leadership at Wix.
 
+🌐 **Live Site**: [https://itayshmool.github.io/itay-shmool-site/](https://itayshmool.github.io/itay-shmool-site/)
+
 ## Design Concept
 
 **Aesthetic**: Editorial/Magazine meets Tech Brutalism
@@ -43,12 +45,9 @@ Simply open `index.html` in your browser. No build process required.
 
 ## Deployment
 
-This site is designed for GitHub Pages. To deploy:
+✅ **Deployed to GitHub Pages**: [https://itayshmool.github.io/itay-shmool-site/](https://itayshmool.github.io/itay-shmool-site/)
 
-1. Push to a GitHub repository
-2. Enable GitHub Pages in repository settings
-3. Select branch and root folder
-4. Site will be live at `https://[username].github.io/[repo-name]`
+The site is automatically built and deployed from the `main` branch.
 
 ## Performance
 
