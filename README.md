@@ -33,11 +33,12 @@ A mobile-first, single-page resume website showcasing Itay Shmool's 20+ year car
 
 1. **Hero** - Bold introduction with animated title
 2. **About** - Personal philosophy and values
-3. **Career** - Interactive timeline of professional journey
-4. **Expertise** - Skills categorized by domain
-5. **Mentorship** - Free mentorship offerings
-6. **Speaking** - Conference talks and presentations
-7. **Connect** - Social links (LinkedIn, GitHub, Website)
+3. **AI Leadership** - Recent AI projects, products, and leadership insights
+4. **Career** - Interactive timeline of professional journey
+5. **Expertise** - Skills categorized by domain
+6. **Mentorship** - Free mentorship offerings
+7. **Speaking** - Conference talks and presentations
+8. **Connect** - Social links (LinkedIn, GitHub, Website)
 
 ## Local Development
 
